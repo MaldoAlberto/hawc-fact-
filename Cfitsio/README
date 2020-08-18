@@ -1,0 +1,4 @@
+# list of commands:
+#cmake ../Cfitsio
+#make
+#make install or sudo make install

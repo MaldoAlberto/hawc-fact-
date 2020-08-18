@@ -1,0 +1,4 @@
+# list of commands:
+#cmake ../CCfits
+#make
+#make install or sudo make install
