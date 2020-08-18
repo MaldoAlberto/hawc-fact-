@@ -1,4 +1,4 @@
-# list of commands:
+# Commands to install this folder:
 #cmake ../CCfits
 #make
 #make install or sudo make install
